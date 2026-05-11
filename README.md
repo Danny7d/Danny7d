@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-I'm **Danny7d**, a passionate developer committed to creating amazing projects and contributing to the open-source community. Welcome to my digital playground where ideas come to life!
+I'm Daniel Tadesse, a passionate developer committed to creating amazing projects. Welcome to my digital playground where ideas come to life!
 
 <div align="center">
 
@@ -58,7 +58,6 @@ I'm **Danny7d**, a passionate developer committed to creating amazing projects a
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -127,7 +126,7 @@ I'm **Danny7d**, a passionate developer committed to creating amazing projects a
 
 ### 🎉 Thanks for visiting! Don't forget to ⭐ your favorite projects!
 
-**Made with ❤️ by Danny7d**
+**Made with ❤️ by Danny**
 
 </div>
 
