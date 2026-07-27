@@ -37,7 +37,11 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danny7d&theme=shades-of-purple)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Danny7d&theme=rust-ferris-dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danny7d&theme=dark&show_icons=true&hide_border=true)
 
