@@ -61,7 +61,7 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
 
 ## 🎨 Featured Section
 
-> ✨ **"Every line of code is a step towards innovation"** ✨
+ ✨ **"Every line of code is a step towards innovation"** ✨
 
 <div align="center">
 
