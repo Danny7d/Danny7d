@@ -51,9 +51,6 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
 
 ---
 
-## 🎯 Current Projects
-
-```
 ┌─────────────────────────────────────────────────┐
 │  🔧 Working on exciting new technologies      │
 │  📚 Always learning and improving              │
