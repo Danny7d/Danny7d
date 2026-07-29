@@ -52,10 +52,10 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
 ---
 <div align="center">
 ┌─────────────────────────────────────────────────┐
-│  🔧 Working on exciting new technologies      │
-│  📚 Always learning and improving              │
-│  🤝 Open to collaboration & contributions      │
-│  💡 Ideas → Projects → Success                 │
+│  🔧 Working on exciting new technologies<br>   │
+│  📚 Always learning and improving        <br>  │
+│  🤝 Open to collaboration & contributions<br>  │
+│  💡 Ideas → Projects → Success <br>            │
 └─────────────────────────────────────────────────┘
 </div>
 ## 🎨 Featured Section
