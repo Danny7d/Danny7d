@@ -43,10 +43,6 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danny7d&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny7d&theme=dark&hide_border=true&layout=compact)
-
 </div>
 
 ---
