@@ -97,7 +97,7 @@ I'm Daniel Tadesse, a passionate developer committed to creating amazing project
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danny7d-black?style=for-the-badge&logo=github)](https://github.com/Danny7d)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer)](https://github.com/Danny7d)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer)]([https://github.com/Danny7d](https://danny-s-portfolio.vercel.app/))
 
 </div>
 
