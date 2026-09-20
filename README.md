@@ -3,8 +3,7 @@
 Solo founder, self-taught developer, based in Addis Ababa 🇪🇹
 
 Currently building a SaaS product from the ground up — architecture, 
-backend, frontend, all of it. Learning by shipping, not by waiting 
-until I feel "ready."
+backend, frontend, all of it. Learning by shipping.
 
 ## Stack I actually use
 
