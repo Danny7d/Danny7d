@@ -21,7 +21,6 @@ turning a working product into a paying business.
 <div align="center">
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Danny7d?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![Profile views](https://komarev.com/ghpvc/?username=Danny7d&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Danny7d&theme=rust-ferris-dark" alt="GitHub Streak" />
