@@ -30,4 +30,4 @@ turning a working product into a paying business.
 </div>
 
 ## Find me
-[Portfolio](https://danny-s-portfolio.vercel.app/) · [GitHub](https://github.com/Danny7d)
+[Portfolio](https://danny.tably.site/) · [GitHub](https://github.com/Danny7d)
