@@ -3,13 +3,14 @@
 Solo founder, self-taught developer, based in Addis Ababa 🇪🇹
 
 Currently building a SaaS product from the ground up — architecture, 
-backend, frontend, all of it. Learning by shipping.
+backend, frontend, all of it. Learning by shipping, not by waiting 
+until I feel "ready."
 
 ## Stack I actually use
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,supabase,postgres,vercel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel,linux)](https://skillicons.dev)
 
 </div>
 
