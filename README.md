@@ -2,8 +2,12 @@
 
 Solo founder, self-taught developer, based in Addis Ababa 🇪🇹
 
-Currently building a SaaS product from the ground up — architecture, 
-backend, frontend, all of it. Learning by shipping."
+I build SaaS products end to end: architecture, backend, frontend, deployment. Learning by shipping.
+
+## What I'm building
+
+- **[Tably](https://tably.site)**: a multi-tenant restaurant management SaaS.
+- **[MailDesk](https://github.com/Danny7d/MailDesk)**: a no-code email platform on top of Resend. Send and receive from a Gmail-style inbox. Next.js, Prisma, Supabase. [Live](https://inbound.tably.site)
 
 ## Stack I actually use
 
@@ -14,7 +18,7 @@ backend, frontend, all of it. Learning by shipping."
 </div>
 
 ## What I'm doing right now
-Building in public, one commit at a time. Currently focused on 
+Building in public, one commit at a time. Currently focused on
 turning a working product into a paying business.
 
 <div align="center">
